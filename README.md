@@ -10,6 +10,6 @@ Application Usage
 
 1: Build and run the ConsoleApp project
 
-2: When prompted enter a distance in mega ligts
+2: When prompted enter a distance in mega lights
 
 3: A list of star ships and stop required are displayed
