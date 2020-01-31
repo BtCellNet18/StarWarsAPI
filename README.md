@@ -1,10 +1,12 @@
-# StarWarsAPI
+# Star Wars API
 
-A console application that consumes data from https://swapi.co/
+![Build](https://github.com/BtCellNet18/StarWarsAPI/workflows/Build/badge.svg)
 
-The application calculates the number of resupply stops required by each star ship to travel a distance specified by the user in mega lights
+A console application that consumes data from the [Star Wars API](http://swapi.co/) 
 
-API documentation http://swapi.co/Documentation
+Calculates the number of stops required for each star ship to travel a distance specified in mega lights
+
+API [documentation](http://swapi.co/Documentation) 
 
 Application Usage
 
